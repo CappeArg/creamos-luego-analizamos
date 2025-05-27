@@ -1,5 +1,5 @@
 import Container from "@/app/_components/container";
-import { EXAMPLE_PATH } from "@/lib/constants";
+import { BLOG_PATH } from "@/lib/constants";
 import cn from "classnames";
 
 type Props = {
@@ -18,23 +18,23 @@ const Alert = ({ preview }: Props) => {
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
-              This page is a preview.{" "}
+              Esta página es una vista previa{" "}
               <a
                 href="/api/exit-preview"
                 className="underline hover:text-teal-300 duration-200 transition-colors"
               >
-                Click here
+                Haz clic aquí
               </a>{" "}
-              to exit preview mode.
+              para salir del modo de vista previa.{" "}
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+              El código fuente de este blog está{" "}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href={`https://github.com/CappeArg/${BLOG_PATH}`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
+                disponible en GitHub
               </a>
               .
             </>
