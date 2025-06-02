@@ -14,21 +14,31 @@ export const metadata: Metadata = {
   keywords: [
     "blog",
     "personal",
-    "efímero",
+    "BA",
+    "business analyst",
+    "analista de negocios",
+    "seguros",
+    "insurance",
+    "suite",
+    "Guidewire",
+    "creatividad",
+    "creativity",
+    "innovation",
+    "innovación",
     "pablocappe",
    "Pablo Cappellacci",
    "Developer",
    "Product",
    "innovation"
   ],
-  description: `Efímero es un blog personal que utilizo para escribir ideas nada originales, pero que necesito escribir sobre ${WTF_IS_IT}.`,
+  description: `Este es un blog personal que utilizo para escribir algunas ideas u ocurrencias a partir de experiencias como  ${WTF_IS_IT}.`,
   openGraph: {
 
     //TODO: reemplace with my own URL
     images: [HOME_OG_IMAGE_URL],
   },
 };
-
+//TODO: reemplazar todo lo que haga falta
 export default function RootLayout({
   children,
 }: Readonly<{
