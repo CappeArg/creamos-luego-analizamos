@@ -25,7 +25,7 @@ Este blog es mi herramienta para plasmar reflexiones, descubrimientos y desafío
 
 ---
 
-## ⚙️ Instalación rápida (si quieres adaptarlo)
+## ⚙️ Instalación rápida (si queres adaptarlo)
 
 1. Clona el repositorio original:
     ```bash
