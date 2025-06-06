@@ -10,7 +10,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Efímero, otro blog más`,
+  title: `Escribilo, porque te olvidás`,
   keywords: [
     "blog",
     "personal",
@@ -31,10 +31,10 @@ export const metadata: Metadata = {
    "Product",
    "innovation"
   ],
-  description: `Este es un blog personal que utilizo para escribir algunas ideas u ocurrencias a partir de experiencias como  ${WTF_IS_IT}.`,
+  description: `Este es un blog personal.  ${WTF_IS_IT}.`,
   openGraph: {
 
-    //TODO: reemplace with my own URL
+    //TODO: replace with my own URL
     images: [HOME_OG_IMAGE_URL],
   },
 };
@@ -45,13 +45,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="es-419">
       <head>
-        <link
-          rel="apple-touch-icon"
-          sizes="180x180"
-          href="/favicon/apple-touch-icon.png"
-        />
+      <link
+        rel="apple-touch-icon"
+        sizes="180x180"
+        href="/favicon/apple-touch-icon.png"
+      />
         <link
           rel="icon"
           type="image/png"
