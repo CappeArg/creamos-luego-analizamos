@@ -1,15 +1,13 @@
 ---
-title: "Nuevo post de prueba"
-excerpt: "Probando publicar"
-coverImage: "/assets/blog/testeando-post/cover.jpg"
-date: "2025-05-26T05:35:07.322Z"
+title: "Exto es una prueba de titulo"
+excerpt: "Esto es una prueba de excerpt"
+coverImage: "/assets/blog/analista-de-negocio/cover.jpg"
+date: "2025-05-25T05:35:07.322Z"
 author:
   name: Pablo Cappellacci
   picture: "/assets/blog/authors/pablo.jpg"
 ogImage:
-  url: "/assets/blog/testeando-post/cover.jpg"
-preview: true 
-
+  url: "/assets/blog/analista-de-negocio/cover.jpg"
 ---
 
 Probando como funcionan los párrafos
