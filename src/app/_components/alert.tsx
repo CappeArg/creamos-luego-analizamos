@@ -31,7 +31,7 @@ const Alert = ({ preview }: Props) => {
             <>
               El código fuente de este blog está{" "}
               <a
-                href={`https://github.com/CappeArg/${BLOG_PATH}`}
+                href={`https://github.com/CappeArg/creamos-luego-analizamos`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 disponible en GitHub

@@ -1,4 +1,4 @@
-import { WTF_IS_IT, BLOG_PATH } from "@/lib/constants";
+import { QUE_ES_ESTO, BLOG_PATH } from "@/lib/constants";
 
 export function Intro() {
   return (
@@ -7,7 +7,7 @@ export function Intro() {
         Escribilo, porque te olvidas.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-         {BLOG_PATH}. {WTF_IS_IT}.
+         {BLOG_PATH}. {QUE_ES_ESTO}.
       </h4>
     </section>
   );

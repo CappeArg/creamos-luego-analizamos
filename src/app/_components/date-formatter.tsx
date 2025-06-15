@@ -8,7 +8,7 @@ type Props = {
 const DateFormatter = ({ dateString }: Props) => {
   const date = parseISO(dateString);
   return (
-    <time dateTime={dateString}>
+    <time dateTime={dateString} suppressHydrationWarning>
       {format(date, "d MMMM, yyyy", { locale: es })}
     </time>
   );

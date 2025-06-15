@@ -1,5 +1,5 @@
 import Footer from "@/app/_components/footer";
-import { WTF_IS_IT, HOME_OG_IMAGE_URL } from "@/lib/constants";
+import { QUE_ES_ESTO, HOME_OG_IMAGE_URL } from "@/lib/constants";
 import { Analytics } from "@vercel/analytics/next"
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
    "Product",
    "innovation"
   ],
-  description: `Este es un blog personal.  ${WTF_IS_IT}.`,
+  description: `Este es un blog personal.  ${QUE_ES_ESTO}.`,
   openGraph: {
 
     //TODO: replace with my own URL
@@ -47,7 +47,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es-419">
+    <html lang="es-419" suppressHydrationWarning>
       <head>
       <link
         rel="apple-touch-icon"
