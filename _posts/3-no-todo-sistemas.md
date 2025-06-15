@@ -1,7 +1,7 @@
 ---
 title: "No todo se soluciona con sistemas (pero ayuda saber usarlos bien)"
 excerpt: "Qué preguntar para no terminar haciendo un sistema dentro de otro sistema"
-coverImage: "/assets/blog/cinco-w-1-h/cover.jpg"
+coverImage: "/assets/blog/no-todo-sistemas/cover.jpg"
 date: "2025-06-16T05:35:07.322Z"
 author:
   name: Pablo Cappellacci
