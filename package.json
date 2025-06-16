@@ -3,7 +3,9 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start"
+
   },
   "dependencies": {
     "@vercel/analytics": "^1.5.0",
@@ -12,6 +14,7 @@
     "date-fns": "^3.6.0",
     "gray-matter": "^4.0.3",
     "next": "15.0.2",
+    "next-sitemap": "^4.2.3",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
     "react-icons": "^5.5.0",
