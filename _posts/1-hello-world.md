@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/hello-world/cover.jpg"
 ---
 
-Comienzo este espacio en una breve presentación. 
+Comienzo este espacio con una breve presentación. 
 A esta altura de mi vida ya puedo aceptar que, por suerte para mí y quizás para Usted también, no es de interés de nadie (a excepción de mis amigos, familia y afectos) saber demasiado sobre mi vida personal y privada. Por este motivo y renunciando a toda posibilidad de éxito, me circunscribiré a hablarle sobre mi formación y experiencia profesional, en mi tono, en mis términos, convencido de que para estas cosas, la intención gana por sobre la automatización.
 Mi título profesional es Técnico Superior en Desarrollo de Software, tengo experiencia en análisis de negocios y liderazgo de proyectos.
 Hace 14 años que trabajo en el mundo del seguro; particularmente en La Segunda Seguros pude desempeñar distintos roles entre los que destaco mi paso por los procesos de Prevención de Riesgos Laborales, Compras, Salud Laboral y finalmente Seguros de Personas.
