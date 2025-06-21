@@ -1,6 +1,6 @@
 ---
-title: "No todo se soluciona con sistemas (pero ayuda saber usarlos bien)"
-excerpt: "Qué preguntar para no terminar haciendo un sistema dentro de otro sistema"
+title: "No todo se soluciona con sistemas (pero ayuda saber cómo usarlos bien)"
+excerpt: "Qué Preguntar para que sistematizar no sea sinónimo de 'emprolijar'. El arte de encapsular lo viejo y 'tunearlo' para que parezca nuevo. Qué preguntar para no terminar haciendo un sistema dentro de otro sistema"
 coverImage: "/assets/blog/no-todo-sistemas/cover.jpg"
 date: "2025-06-16T05:35:07.322Z"
 author:
@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/pablo.jpg"
 ogImage:
   url: "/assets/blog/no-todo-sistemas/cover.jpg"
-preview: true 
+preview: false 
 ---
 
 ## ¿Qué Preguntar para que sistematizar no sea sinónimo de "emprolijar"?
@@ -49,3 +49,15 @@ Un ejemplo bastante visual de esto es la posibilidad de realizar comentarios, no
 - ¿Con qué otros elementos se vincula la solución?
 - ¿Cómo encaja este requisito con el resto del sistema?
 - ¿No hay una forma de simplificarlo?
+
+## Antes de cambiar un sistema o crear una solución, preguntar
+Porque si no preguntamos, no entendemos.
+Y si no entendemos, solo estamos digitalizando la confusión.
+
+Sistematizar sin sentido es como poner un proyector 4K en un aula sin enchufes: parece innovación, pero al final el pizarrón y la tiza siguen salvando las papas.
+
+No se trata de frenar la transformación digital, sino de devolverle el sentido.
+No todo lo que brilla es un sistema nuevo.
+Y no todo lo que funciona tiene que ser complejo.
+
+A veces, la pregunta correcta vale más que mil líneas de código.
