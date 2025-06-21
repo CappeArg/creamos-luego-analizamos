@@ -2,7 +2,7 @@
 title: "No todo se soluciona con sistemas (pero ayuda saber cómo usarlos bien)"
 excerpt: "Qué Preguntar para que sistematizar no sea sinónimo de 'emprolijar'. El arte de encapsular lo viejo y 'tunearlo' para que parezca nuevo. Qué preguntar para no terminar haciendo un sistema dentro de otro sistema"
 coverImage: "/assets/blog/no-todo-sistemas/cover.jpg"
-date: "2025-06-16T05:35:07.322Z"
+date: "2025-06-30T05:35:07.322Z"
 author:
   name: Pablo Cappellacci
   picture: "/assets/blog/authors/pablo.jpg"

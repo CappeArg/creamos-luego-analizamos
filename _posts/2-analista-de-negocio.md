@@ -2,7 +2,7 @@
 title: "¿Qué es un Analista de Negocios?"
 excerpt: 'Qué responder cuando tu hijo o hija te pregunta "¿Pa/Ma cuál es tu trabajo?"'
 coverImage: "/assets/blog/analista-de-negocio/cover.jpg"
-date: "2025-06-15T08:30:07.322Z"
+date: "2025-06-03T08:30:07.322Z"
 author:
   name: Pablo Cappellacci
   picture: "/assets/blog/authors/pablo.jpg"

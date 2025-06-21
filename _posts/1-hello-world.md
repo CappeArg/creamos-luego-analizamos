@@ -2,7 +2,7 @@
 title: "Hola Mundo"
 excerpt: "Hola, me presento"
 coverImage: "/assets/blog/hello-world/cover.jpg"
-date: "2025-06-14T05:35:07.322Z"
+date: "2025-05-02T05:35:07.322Z"
 author:
   name: Pablo Cappellacci
   picture: "/assets/blog/authors/pablo.jpg"
