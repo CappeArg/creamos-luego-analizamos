@@ -11,8 +11,8 @@ ogImage:
 preview: false
 ---
 
-# La perfección NO hace al maestro  
-### ¿Es viable el desarrollo ordenado, documentado y estructurado? ¿Cuál es el costo del orden? ¿Es posible comenzar una historia de usuario y no estar jubilados antes de terminarla?
+## La perfección NO hace al maestro  
+¿Es viable el desarrollo ordenado, documentado y estructurado? ¿Cuál es el costo del orden? ¿Es posible comenzar una historia de usuario y no estar jubilados antes de terminarla?
 
 ---
 
@@ -23,15 +23,9 @@ Ya en los comienzos del sprint, en plena reunión con usuarios finales, estábam
 Hasta que… sucedió:
 
 > —“¿Y si agregamos también un botón que pueda descargar todo en PDF, firmado digitalmente, y compartirlo por WhatsApp?”
+## ...
 
-Silencio. Respiramos. Sonreímos.
-
-> —“Bueno, sí, podría hacerse... pero sería para otro sprint.”  
-> —“No, no, no. Esto no puede salir incompleto. Mejor esperemos.”
-
-Y ahí hizo su entrada triunfal **La Perfección**, hostigadora de plazos, manipuladora de salud mental y saboteadora de MVPs.
-
----
+**Perfeccionar el producto**, el famoso saboteador de MVPs.
 
 ## La ilusión del software perfecto  
 _(ese software perfecto… ¿está aquí con nosotros en la habitación?)_
@@ -41,25 +35,23 @@ Que si nos damos un poco más de tiempo, si agregamos “una cosita más”, si 
 
 Y sí, suena lindo. Pero cuesta. Mucho.
 
-Cada funcionalidad que se atrasa porque “le falta algo” tiene un **costo de oportunidad**: el de no haber salido a validar, a aprender, a corregir con usuarios reales. A veces, ese costo es invisible. Otras veces, te explota en la cara cuando la competencia lanza algo parecido… pero ya lo tiene en producción.
+Cada funcionalidad que se atrasa porque “le falta algo” tiene un **costo de oportunidad**: el de no haber salido a validar, a aprender, a corregir con usuarios reales. A veces, ese costo es invisible. Otras veces, te explota en la cara cuando la competencia lanza algo parecido… pero antes.
 
 Y ni hablar del **costo hundido**: todas esas horas ya invertidas diseñando, desarrollando y discutiendo sobre una función que todavía no vio la luz… y que tal vez *nadie* use.
 
 ---
 
-## MVP no significa “mínimo para que no se enoje la Gerencia”
+**MVP no significa “mínimo para que no se enoje la Gerencia”**
 
 El MVP es una brújula, no una excusa.  
 Es lo que nos permite saber si vamos en la dirección correcta *antes* de encariñarnos con el camino equivocado.
 
 De hecho, **matar un MVP** puede ser el acto más noble y empático que puede existir en un equipo.  
-No todo lo que se empieza merece terminarse.
+No todo lo que empieza merece un fin.
 
 Puede que “mínimo” suene a “pobre”, y “viable” suene a “indefendible”.  
 Entonces se empieza a empujar el alcance, a inflar la historia de usuario, a colarle mejoras “por las dudas”… y un sprint más tarde, tenés algo que ni es mínimo, ni es viable, ni es producto.  
 Y, ya que estamos, tampoco es noble. Y no responde a ninguna lógica de equipo.
-
----
 
 ## Decidir es perder siempre (y eso está bien)
 
@@ -89,17 +81,16 @@ Sí. Pero el orden no es una ceremonia, ni una documentación exhaustiva, ni un 
 
 Orden es saber qué problema estamos resolviendo y para quién.  
 Es poder entregar algo útil, aunque no sea completo.  
-Es entender que, a veces, **menos no es más... es lo único viable**.
+Es entender que, a veces, **menos no es más... es lo viable**.
 
 ---
 
-## ¿Y qué pasó con esa funcionalidad?
-
+## ...
 Al final, fuimos por el camino ágil y sacamos la funcionalidad sin las mejoras.
 
 **¿Qué pasó?**
 
-Los usuarios **no la usaron**. Erramos el supuesto. Fracasamos.  
+Los usuarios **no usaron nuestro desarrollo**. Erramos el supuesto.  
 Pero aprendimos, pivotamos, cambiamos de enfoque.  
 Y avanzamos en otra dirección.
 
